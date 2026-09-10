@@ -1,98 +1,69 @@
-```markdown
-<div align="center">
+<h1 align="center">Maurício Pazssoni</h1>
 
-# `mauricio.passoni`
+<h3 align="center">Full stack developer & project manager — I build the product and lead the people who ship it</h3>
 
-**Full stack developer & project manager**
+<p align="center">
+  Started with network cables at a technical school, moved to backend, ended up running the room<br>
+  Spent the last year inside a bare metal & cloud hosting provider<br>
+  Computer Engineering · IFFluminense, Brazil<br>
 
-`🟢 All systems operational` · `📍 Brasil` · `⚡ Open to work`
+<h3 align="center">Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/mauricio-passoni/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mauriciospassoni@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/English-intermediate-6E5494?style=flat-square" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/mauricio-passoni/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="32" width="32" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:mauriciospassoni@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="32" width="32" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Pazssoni"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="32" width="32" /></a>
+</p>
 
-</div>
+<h3 align="center">Languages and Tools:</h3>
 
----
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="40" />
+</p>
 
-```
-$ whoami
-```
+<h3 align="center">What I've been up to:</h3>
 
-> Comecei mexendo em cabo de rede no SENAI. Virei dev backend.
-> Hoje lidero times de desenvolvimento, DevOps e suporte — e continuo commitando.
->
-> Passei o último ano dentro de um provedor de bare metal e cloud, construindo
-> a plataforma que vende, provisiona e cobra por servidores. Aprendi que software
-> bonito não vale nada se o servidor não sobe às 3 da manhã.
+<p align="center">
+  <b>🤖 BEMO — open-source modular educational robot</b><br>
+  My final undergraduate project, and the one I'm proudest of. A low-cost modular robot<br>
+  designed to bring STEAM education into public schools, where budget is never the easy part.<br>
+  Presented at <b>Computer on the Beach 2026</b>.
+</p>
 
----
+<p align="center">
+  <b>☁️ From backend dev to project manager</b><br>
+  I joined a hosting provider in last year to write backend for their in-house platform — product catalog,<br>
+  server provisioning, billing, payments, internal operations. Four months later I was leading<br>
+  the development, DevOps and support teams. The stack was never the hard part.<br>
+  Getting three teams with different priorities to ship in the same direction was.
+</p>
 
-```
-$ services --status
-```
-
-| | | |
-|---|---|---|
-| 🟢 | **Backend** | `Node.js` `TypeScript` `Express` `Sequelize` `PostgreSQL` `Redis` `BullMQ` |
-| 🟢 | **Frontend** | `React` `Next.js` `JavaScript` |
-| 🟢 | **Infra** | `Linux` `Docker` `Kubernetes` `Proxmox` `Ansible` `CI/CD` |
-| 🟢 | **Leading** | `Scrum` `sprint planning` `cross-team delivery` `hiring & onboarding` |
-| 🟡 | **Learning** | `Go` `system design` |
-
----
-
-```
-$ cat highlights.md
-```
-
-<details>
-<summary><b>🤖 BEMO — robô educacional open-source</b></summary>
-
-<br>
-
-Meu TCC virou projeto de verdade. Um robô modular de baixo custo para levar
-educação STEAM para escola pública, onde orçamento nunca é o problema mais fácil
-de resolver.
-
-Apresentado no **Computer on the Beach 2026**. Aprovado com a banca de pé.
-
-</details>
-
-<details>
-<summary><b>☁️ Plataforma de hosting — de dev a PM em 4 meses</b></summary>
-
-<br>
-
-Entrei como backend dev no time da plataforma proprietária de um provedor de
-bare metal e cloud: catálogo de produtos, provisionamento de servidores, billing,
-pagamentos e operações internas.
-
-Quatro meses depois estava coordenando desenvolvimento, DevOps e suporte técnico.
-A parte difícil nunca foi a stack. Foi fazer três times com prioridades diferentes
-entregarem na mesma direção.
-
-</details>
-
-<details>
-<summary><b>🎓 Engenharia de Computação — IFFluminense</b></summary>
+<p align="center">
+  <b>🌱 Currently</b><br>
+  Open to full stack and project management roles.
+</p>
 
 <br>
 
-Bacharelado 2020–2025. Antes disso, técnico em Redes pelo SENAI.
-Premiado no INOVA NORTE e no Inova SENAI.
-
-</details>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pazssoni&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff" height="160" />
-
-<br><br>
-
-`uptime: sempre que precisar` · `SLA: respondo rápido`
-
-</div>
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pazssoni&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+</p>
